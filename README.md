@@ -1,4 +1,4 @@
-# Project Prostate Cancer DataSet Linear and Regularized Regression
+# Project: Prostate Cancer DataSet Linear and Regularized Regression
 
 We are going to use Prostate Cancer data to gain some insights into what might be useful in predicting \
 log level of PSA (prostate specific antigen) for men with prostate cancer. 
